@@ -1,0 +1,181 @@
+Year,Month,ProductCategory,Sales(In ThousandDollars),WeatherEvent,Day,Temp high (°C),Temp avg (°C),Temp low (°C),Dew Point high (°C),Dew Point avg (°C),Dew Point low (°C),Humidity (%) high,Humidity (%) avg,Humidity (%) low,Sea Level Press. (hPa) high,Sea Level Press. (hPa) avg,Sea Level Press. (hPa) low,Visibility (km) high,Visibility (km) avg,Visibility (km) low,Wind (km/h) low,Wind (km/h) avg,Wind (km/h) high,Precip. (mm) sum,Event,DayCategory
+2009,Jan,WomenClothing,1755.0,"Fog , Rain , Snow",16.0,0.7419354838709677,-2.096774193548387,-5.32258064516129,-6.096774193548387,-9.903225806451612,-14.0,71.7741935483871,57.354838709677416,42.32258064516129,1021.2903225806451,1015.9677419354839,1010.516129032258,16.0,14.0,11.451612903225806,27.0,12.0,39.32258064516129,2.4419354838709677,"New Year's Day, Martin Luther King Jr. Day","Federal Holiday, Federal Holiday"
+2009,Jan,MenClothing,524.0,"Fog , Rain , Snow",16.0,0.7419354838709677,-2.096774193548387,-5.32258064516129,-6.096774193548387,-9.903225806451612,-14.0,71.7741935483871,57.354838709677416,42.32258064516129,1021.2903225806451,1015.9677419354839,1010.516129032258,16.0,14.0,11.451612903225806,27.0,12.0,39.32258064516129,2.4419354838709677,"New Year's Day, Martin Luther King Jr. Day","Federal Holiday, Federal Holiday"
+2009,Jan,OtherClothing,936.0,"Fog , Rain , Snow",16.0,0.7419354838709677,-2.096774193548387,-5.32258064516129,-6.096774193548387,-9.903225806451612,-14.0,71.7741935483871,57.354838709677416,42.32258064516129,1021.2903225806451,1015.9677419354839,1010.516129032258,16.0,14.0,11.451612903225806,27.0,12.0,39.32258064516129,2.4419354838709677,"New Year's Day, Martin Luther King Jr. Day","Federal Holiday, Federal Holiday"
+2009,Feb,WomenClothing,1729.0,Rain,14.5,6.964285714285714,2.7857142857142856,-1.6428571428571428,-2.4642857142857144,-6.392857142857143,-10.571428571428571,69.53571428571429,54.0,38.107142857142854,1021.7142857142857,1017.0714285714286,1012.4642857142857,16.0,15.178571428571429,13.285714285714286,27.928571428571427,12.214285714285714,41.642857142857146,0.7803571428571429,"Valentine's Day, Presidents' Day","Event, Federal Holiday"
+2009,Feb,MenClothing,496.0,Rain,14.5,6.964285714285714,2.7857142857142856,-1.6428571428571428,-2.4642857142857144,-6.392857142857143,-10.571428571428571,69.53571428571429,54.0,38.107142857142854,1021.7142857142857,1017.0714285714286,1012.4642857142857,16.0,15.178571428571429,13.285714285714286,27.928571428571427,12.214285714285714,41.642857142857146,0.7803571428571429,"Valentine's Day, Presidents' Day","Event, Federal Holiday"
+2009,Feb,OtherClothing,859.0,Rain,14.5,6.964285714285714,2.7857142857142856,-1.6428571428571428,-2.4642857142857144,-6.392857142857143,-10.571428571428571,69.53571428571429,54.0,38.107142857142854,1021.7142857142857,1017.0714285714286,1012.4642857142857,16.0,15.178571428571429,13.285714285714286,27.928571428571427,12.214285714285714,41.642857142857146,0.7803571428571429,"Valentine's Day, Presidents' Day","Event, Federal Holiday"
+2009,Mar,WomenClothing,2256.0,Rain,16.0,9.838709677419354,5.967741935483871,1.7741935483870968,0.25806451612903225,-2.903225806451613,-6.741935483870968,74.09677419354838,57.064516129032256,39.54838709677419,1025.0967741935483,1021.0645161290323,1017.0322580645161,16.0,14.258064516129032,10.67741935483871,27.0,11.387096774193548,38.61290322580645,1.4338709677419357,,
+2009,Mar,MenClothing,542.0,Rain,16.0,9.838709677419354,5.967741935483871,1.7741935483870968,0.25806451612903225,-2.903225806451613,-6.741935483870968,74.09677419354838,57.064516129032256,39.54838709677419,1025.0967741935483,1021.0645161290323,1017.0322580645161,16.0,14.258064516129032,10.67741935483871,27.0,11.387096774193548,38.61290322580645,1.4338709677419357,,
+2009,Mar,OtherClothing,921.0,Rain,16.0,9.838709677419354,5.967741935483871,1.7741935483870968,0.25806451612903225,-2.903225806451613,-6.741935483870968,74.09677419354838,57.064516129032256,39.54838709677419,1025.0967741935483,1021.0645161290323,1017.0322580645161,16.0,14.258064516129032,10.67741935483871,27.0,11.387096774193548,38.61290322580645,1.4338709677419357,,
+2009,Apr,WomenClothing,2662.0,Rain,15.5,17.1,12.733333333333333,7.833333333333333,6.233333333333333,2.533333333333333,-1.2,75.46666666666667,55.7,35.733333333333334,1018.8333333333334,1014.5333333333333,1010.4333333333333,15.9,14.066666666666666,10.866666666666667,27.3,11.366666666666667,39.56666666666667,3.970666666666667,Easter Sunday,Event
+2009,Apr,MenClothing,669.0,Rain,15.5,17.1,12.733333333333333,7.833333333333333,6.233333333333333,2.533333333333333,-1.2,75.46666666666667,55.7,35.733333333333334,1018.8333333333334,1014.5333333333333,1010.4333333333333,15.9,14.066666666666666,10.866666666666667,27.3,11.366666666666667,39.56666666666667,3.970666666666667,Easter Sunday,Event
+2009,Apr,OtherClothing,914.0,Rain,15.5,17.1,12.733333333333333,7.833333333333333,6.233333333333333,2.533333333333333,-1.2,75.46666666666667,55.7,35.733333333333334,1018.8333333333334,1014.5333333333333,1010.4333333333333,15.9,14.066666666666666,10.866666666666667,27.3,11.366666666666667,39.56666666666667,3.970666666666667,Easter Sunday,Event
+2009,May,WomenClothing,2732.0,Rain,16.0,21.35483870967742,17.0,12.483870967741936,12.96774193548387,10.096774193548388,6.516129032258065,85.64516129032258,68.51612903225806,50.935483870967744,1020.4193548387096,1017.1612903225806,1014.1290322580645,15.903225806451612,12.451612903225806,9.0,22.677419354838708,8.387096774193548,32.903225806451616,4.235483870967743,"Mother's Day, Memorial Day","Event, Federal Holiday"
+2009,May,MenClothing,650.0,Rain,16.0,21.35483870967742,17.0,12.483870967741936,12.96774193548387,10.096774193548388,6.516129032258065,85.64516129032258,68.51612903225806,50.935483870967744,1020.4193548387096,1017.1612903225806,1014.1290322580645,15.903225806451612,12.451612903225806,9.0,22.677419354838708,8.387096774193548,32.903225806451616,4.235483870967743,"Mother's Day, Memorial Day","Event, Federal Holiday"
+2009,May,OtherClothing,989.0,Rain,16.0,21.35483870967742,17.0,12.483870967741936,12.96774193548387,10.096774193548388,6.516129032258065,85.64516129032258,68.51612903225806,50.935483870967744,1020.4193548387096,1017.1612903225806,1014.1290322580645,15.903225806451612,12.451612903225806,9.0,22.677419354838708,8.387096774193548,32.903225806451616,4.235483870967743,"Mother's Day, Memorial Day","Event, Federal Holiday"
+2009,Jun,WomenClothing,2220.0,Rain,15.5,23.666666666666668,19.866666666666667,15.833333333333334,17.1,15.366666666666667,13.133333333333333,95.2,78.86666666666666,61.63333333333333,1013.3,1011.1666666666666,1008.7333333333333,15.9,11.833333333333334,5.933333333333334,21.066666666666666,7.4,30.3,8.517,Father's Day,Event
+2009,Jun,MenClothing,607.0,Rain,15.5,23.666666666666668,19.866666666666667,15.833333333333334,17.1,15.366666666666667,13.133333333333333,95.2,78.86666666666666,61.63333333333333,1013.3,1011.1666666666666,1008.7333333333333,15.9,11.833333333333334,5.933333333333334,21.066666666666666,7.4,30.3,8.517,Father's Day,Event
+2009,Jun,OtherClothing,932.0,Rain,15.5,23.666666666666668,19.866666666666667,15.833333333333334,17.1,15.366666666666667,13.133333333333333,95.2,78.86666666666666,61.63333333333333,1013.3,1011.1666666666666,1008.7333333333333,15.9,11.833333333333334,5.933333333333334,21.066666666666666,7.4,30.3,8.517,Father's Day,Event
+2009,Jul,WomenClothing,2164.0,Rain,16.0,26.838709677419356,22.741935483870968,18.225806451612904,18.838709677419356,16.451612903225808,13.612903225806452,88.61290322580645,70.80645161290323,52.483870967741936,1015.9032258064516,1013.5806451612904,1011.1935483870968,16.0,12.935483870967742,8.451612903225806,21.612903225806452,7.903225806451613,31.93548387096774,5.825806451612904,"'Independence Day' observed, Independence Day","Federal Holiday, Federal Holiday"
+2009,Jul,MenClothing,575.0,Rain,16.0,26.838709677419356,22.741935483870968,18.225806451612904,18.838709677419356,16.451612903225808,13.612903225806452,88.61290322580645,70.80645161290323,52.483870967741936,1015.9032258064516,1013.5806451612904,1011.1935483870968,16.0,12.935483870967742,8.451612903225806,21.612903225806452,7.903225806451613,31.93548387096774,5.825806451612904,"'Independence Day' observed, Independence Day","Federal Holiday, Federal Holiday"
+2009,Jul,OtherClothing,901.0,Rain,16.0,26.838709677419356,22.741935483870968,18.225806451612904,18.838709677419356,16.451612903225808,13.612903225806452,88.61290322580645,70.80645161290323,52.483870967741936,1015.9032258064516,1013.5806451612904,1011.1935483870968,16.0,12.935483870967742,8.451612903225806,21.612903225806452,7.903225806451613,31.93548387096774,5.825806451612904,"'Independence Day' observed, Independence Day","Federal Holiday, Federal Holiday"
+2009,Aug,WomenClothing,2371.0,Rain,16.0,27.967741935483872,24.387096774193548,20.548387096774192,20.451612903225808,18.483870967741936,16.129032258064516,88.87096774193549,72.48387096774194,55.67741935483871,1018.2258064516129,1015.9677419354839,1013.3870967741935,16.0,14.483870967741936,9.903225806451612,19.29032258064516,6.806451612903226,28.06451612903226,3.4658064516129037,,
+2009,Aug,MenClothing,551.0,Rain,16.0,27.967741935483872,24.387096774193548,20.548387096774192,20.451612903225808,18.483870967741936,16.129032258064516,88.87096774193549,72.48387096774194,55.67741935483871,1018.2258064516129,1015.9677419354839,1013.3870967741935,16.0,14.483870967741936,9.903225806451612,19.29032258064516,6.806451612903226,28.06451612903226,3.4658064516129037,,
+2009,Aug,OtherClothing,865.0,Rain,16.0,27.967741935483872,24.387096774193548,20.548387096774192,20.451612903225808,18.483870967741936,16.129032258064516,88.87096774193549,72.48387096774194,55.67741935483871,1018.2258064516129,1015.9677419354839,1013.3870967741935,16.0,14.483870967741936,9.903225806451612,19.29032258064516,6.806451612903226,28.06451612903226,3.4658064516129037,,
+2009,Sep,WomenClothing,2421.0,Rain,15.5,22.766666666666666,19.233333333333334,15.333333333333334,15.066666666666666,12.766666666666667,10.133333333333333,86.4,69.7,52.36666666666667,1021.7333333333333,1018.7,1015.1,16.0,15.033333333333333,13.433333333333334,23.0,9.266666666666667,32.4,1.9133333333333333,Labor Day,Federal Holiday
+2009,Sep,MenClothing,579.0,Rain,15.5,22.766666666666666,19.233333333333334,15.333333333333334,15.066666666666666,12.766666666666667,10.133333333333333,86.4,69.7,52.36666666666667,1021.7333333333333,1018.7,1015.1,16.0,15.033333333333333,13.433333333333334,23.0,9.266666666666667,32.4,1.9133333333333333,Labor Day,Federal Holiday
+2009,Sep,OtherClothing,819.0,Rain,15.5,22.766666666666666,19.233333333333334,15.333333333333334,15.066666666666666,12.766666666666667,10.133333333333333,86.4,69.7,52.36666666666667,1021.7333333333333,1018.7,1015.1,16.0,15.033333333333333,13.433333333333334,23.0,9.266666666666667,32.4,1.9133333333333333,Labor Day,Federal Holiday
+2009,Oct,WomenClothing,2579.0,Rain,16.0,16.258064516129032,12.870967741935484,9.35483870967742,9.838709677419354,7.032258064516129,3.903225806451613,85.90322580645162,69.35483870967742,52.41935483870968,1020.3548387096774,1016.7741935483871,1013.0645161290323,16.0,14.064516129032258,11.129032258064516,23.516129032258064,9.67741935483871,34.41935483870968,4.572258064516129,"Columbus Day (Most regions), Halloween","Federal Holiday, Event"
+2009,Oct,MenClothing,610.0,Rain,16.0,16.258064516129032,12.870967741935484,9.35483870967742,9.838709677419354,7.032258064516129,3.903225806451613,85.90322580645162,69.35483870967742,52.41935483870968,1020.3548387096774,1016.7741935483871,1013.0645161290323,16.0,14.064516129032258,11.129032258064516,23.516129032258064,9.67741935483871,34.41935483870968,4.572258064516129,"Columbus Day (Most regions), Halloween","Federal Holiday, Event"
+2009,Oct,OtherClothing,914.0,Rain,16.0,16.258064516129032,12.870967741935484,9.35483870967742,9.838709677419354,7.032258064516129,3.903225806451613,85.90322580645162,69.35483870967742,52.41935483870968,1020.3548387096774,1016.7741935483871,1013.0645161290323,16.0,14.064516129032258,11.129032258064516,23.516129032258064,9.67741935483871,34.41935483870968,4.572258064516129,"Columbus Day (Most regions), Halloween","Federal Holiday, Event"
+2009,Nov,WomenClothing,2521.0,Rain,15.5,13.733333333333333,10.8,7.566666666666666,7.0,4.166666666666667,1.4333333333333333,80.46666666666667,66.6,52.233333333333334,1022.2666666666667,1019.0333333333333,1015.6333333333333,16.0,14.666666666666666,11.833333333333334,25.866666666666667,11.133333333333333,36.733333333333334,1.3633333333333333,"Veterans Day, Thanksgiving Day","Federal Holiday, Federal Holiday"
+2009,Nov,MenClothing,620.0,Rain,15.5,13.733333333333333,10.8,7.566666666666666,7.0,4.166666666666667,1.4333333333333333,80.46666666666667,66.6,52.233333333333334,1022.2666666666667,1019.0333333333333,1015.6333333333333,16.0,14.666666666666666,11.833333333333334,25.866666666666667,11.133333333333333,36.733333333333334,1.3633333333333333,"Veterans Day, Thanksgiving Day","Federal Holiday, Federal Holiday"
+2009,Nov,OtherClothing,955.0,Rain,15.5,13.733333333333333,10.8,7.566666666666666,7.0,4.166666666666667,1.4333333333333333,80.46666666666667,66.6,52.233333333333334,1022.2666666666667,1019.0333333333333,1015.6333333333333,16.0,14.666666666666666,11.833333333333334,25.866666666666667,11.133333333333333,36.733333333333334,1.3633333333333333,"Veterans Day, Thanksgiving Day","Federal Holiday, Federal Holiday"
+2009,Dec,WomenClothing,3390.0,Rain,16.0,5.451612903225806,2.3548387096774195,-1.032258064516129,-0.9354838709677419,-4.67741935483871,-8.709677419354838,77.61290322580645,61.74193548387097,45.25806451612903,1022.483870967742,1017.2258064516129,1012.1935483870968,16.0,13.774193548387096,10.67741935483871,28.580645161290324,13.451612903225806,42.83870967741935,5.956451612903226,"Christmas Eve, Christmas Day, New Year's Eve","Event, Federal Holiday, Event"
+2009,Dec,MenClothing,930.0,Rain,16.0,5.451612903225806,2.3548387096774195,-1.032258064516129,-0.9354838709677419,-4.67741935483871,-8.709677419354838,77.61290322580645,61.74193548387097,45.25806451612903,1022.483870967742,1017.2258064516129,1012.1935483870968,16.0,13.774193548387096,10.67741935483871,28.580645161290324,13.451612903225806,42.83870967741935,5.956451612903226,"Christmas Eve, Christmas Day, New Year's Eve","Event, Federal Holiday, Event"
+2009,Dec,OtherClothing,1351.0,Rain,16.0,5.451612903225806,2.3548387096774195,-1.032258064516129,-0.9354838709677419,-4.67741935483871,-8.709677419354838,77.61290322580645,61.74193548387097,45.25806451612903,1022.483870967742,1017.2258064516129,1012.1935483870968,16.0,13.774193548387096,10.67741935483871,28.580645161290324,13.451612903225806,42.83870967741935,5.956451612903226,"Christmas Eve, Christmas Day, New Year's Eve","Event, Federal Holiday, Event"
+2010,Jan,WomenClothing,2142.0,,,,,,,,,,,,,,,,,,,,,,"New Year's Day, Martin Luther King Jr. Day","Federal Holiday, Federal Holiday"
+2010,Jan,MenClothing,476.0,,,,,,,,,,,,,,,,,,,,,,"New Year's Day, Martin Luther King Jr. Day","Federal Holiday, Federal Holiday"
+2010,Jan,OtherClothing,945.0,,,,,,,,,,,,,,,,,,,,,,"New Year's Day, Martin Luther King Jr. Day","Federal Holiday, Federal Holiday"
+2010,Feb,WomenClothing,2413.0,,,,,,,,,,,,,,,,,,,,,,"Valentine's Day, Presidents' Day","Event, Federal Holiday"
+2010,Feb,MenClothing,471.0,,,,,,,,,,,,,,,,,,,,,,"Valentine's Day, Presidents' Day","Event, Federal Holiday"
+2010,Feb,OtherClothing,869.0,,,,,,,,,,,,,,,,,,,,,,"Valentine's Day, Presidents' Day","Event, Federal Holiday"
+2010,Mar,WomenClothing,3102.0,,,,,,,,,,,,,,,,,,,,,,,
+2010,Mar,MenClothing,568.0,,,,,,,,,,,,,,,,,,,,,,,
+2010,Mar,OtherClothing,941.0,,,,,,,,,,,,,,,,,,,,,,,
+2010,Apr,WomenClothing,1616.729411764706,,,,,,,,,,,,,,,,,,,,,,Easter Sunday,Event
+2010,Apr,MenClothing,630.0,,,,,,,,,,,,,,,,,,,,,,Easter Sunday,Event
+2010,Apr,OtherClothing,1616.729411764706,,,,,,,,,,,,,,,,,,,,,,Easter Sunday,Event
+2010,May,WomenClothing,3221.0,,,,,,,,,,,,,,,,,,,,,,"Mother's Day, Memorial Day","Event, Federal Holiday"
+2010,May,MenClothing,627.0,,,,,,,,,,,,,,,,,,,,,,"Mother's Day, Memorial Day","Event, Federal Holiday"
+2010,May,OtherClothing,991.0,,,,,,,,,,,,,,,,,,,,,,"Mother's Day, Memorial Day","Event, Federal Holiday"
+2010,Jun,WomenClothing,2756.0,,,,,,,,,,,,,,,,,,,,,,Father's Day,Event
+2010,Jun,MenClothing,598.0,,,,,,,,,,,,,,,,,,,,,,Father's Day,Event
+2010,Jun,OtherClothing,984.0,,,,,,,,,,,,,,,,,,,,,,Father's Day,Event
+2010,Jul,WomenClothing,2749.0,,,,,,,,,,,,,,,,,,,,,,"Independence Day, 'Independence Day' observed","Federal Holiday, Federal Holiday"
+2010,Jul,MenClothing,544.0,,,,,,,,,,,,,,,,,,,,,,"Independence Day, 'Independence Day' observed","Federal Holiday, Federal Holiday"
+2010,Jul,OtherClothing,937.0,,,,,,,,,,,,,,,,,,,,,,"Independence Day, 'Independence Day' observed","Federal Holiday, Federal Holiday"
+2010,Aug,WomenClothing,2807.0,,,,,,,,,,,,,,,,,,,,,,,
+2010,Aug,MenClothing,1616.729411764706,,,,,,,,,,,,,,,,,,,,,,,
+2010,Aug,OtherClothing,897.0,,,,,,,,,,,,,,,,,,,,,,,
+2010,Sep,WomenClothing,2919.0,,,,,,,,,,,,,,,,,,,,,,Labor Day,Federal Holiday
+2010,Sep,MenClothing,563.0,,,,,,,,,,,,,,,,,,,,,,Labor Day,Federal Holiday
+2010,Sep,OtherClothing,839.0,,,,,,,,,,,,,,,,,,,,,,Labor Day,Federal Holiday
+2010,Oct,WomenClothing,3071.0,,,,,,,,,,,,,,,,,,,,,,"Columbus Day (Most regions), Halloween","Federal Holiday, Event"
+2010,Oct,MenClothing,634.0,,,,,,,,,,,,,,,,,,,,,,"Columbus Day (Most regions), Halloween","Federal Holiday, Event"
+2010,Oct,OtherClothing,930.0,,,,,,,,,,,,,,,,,,,,,,"Columbus Day (Most regions), Halloween","Federal Holiday, Event"
+2010,Nov,WomenClothing,3276.0,,,,,,,,,,,,,,,,,,,,,,"Veterans Day, Thanksgiving Day","Federal Holiday, Federal Holiday"
+2010,Nov,MenClothing,669.0,,,,,,,,,,,,,,,,,,,,,,"Veterans Day, Thanksgiving Day","Federal Holiday, Federal Holiday"
+2010,Nov,OtherClothing,1035.0,,,,,,,,,,,,,,,,,,,,,,"Veterans Day, Thanksgiving Day","Federal Holiday, Federal Holiday"
+2010,Dec,WomenClothing,4360.0,,,,,,,,,,,,,,,,,,,,,,"'Christmas Day' observed, Christmas Eve, Christmas Day, 'New Year's Day' observed, New Year's Eve","Federal Holiday, Event, Federal Holiday, Federal Holiday, Event"
+2010,Dec,MenClothing,988.0,,,,,,,,,,,,,,,,,,,,,,"'Christmas Day' observed, Christmas Eve, Christmas Day, 'New Year's Day' observed, New Year's Eve","Federal Holiday, Event, Federal Holiday, Federal Holiday, Event"
+2010,Dec,OtherClothing,1398.0,,,,,,,,,,,,,,,,,,,,,,"'Christmas Day' observed, Christmas Eve, Christmas Day, 'New Year's Day' observed, New Year's Eve","Federal Holiday, Event, Federal Holiday, Federal Holiday, Event"
+2011,Jan,WomenClothing,2193.0,,,,,,,,,,,,,,,,,,,,,,"New Year's Day, Martin Luther King Jr. Day","Federal Holiday, Federal Holiday"
+2011,Jan,MenClothing,487.0,,,,,,,,,,,,,,,,,,,,,,"New Year's Day, Martin Luther King Jr. Day","Federal Holiday, Federal Holiday"
+2011,Jan,OtherClothing,968.0,,,,,,,,,,,,,,,,,,,,,,"New Year's Day, Martin Luther King Jr. Day","Federal Holiday, Federal Holiday"
+2011,Feb,WomenClothing,2620.0,,,,,,,,,,,,,,,,,,,,,,"Valentine's Day, Presidents' Day","Event, Federal Holiday"
+2011,Feb,MenClothing,497.0,,,,,,,,,,,,,,,,,,,,,,"Valentine's Day, Presidents' Day","Event, Federal Holiday"
+2011,Feb,OtherClothing,878.0,,,,,,,,,,,,,,,,,,,,,,"Valentine's Day, Presidents' Day","Event, Federal Holiday"
+2011,Mar,WomenClothing,3266.0,,,,,,,,,,,,,,,,,,,,,,,
+2011,Mar,MenClothing,599.0,,,,,,,,,,,,,,,,,,,,,,,
+2011,Mar,OtherClothing,1064.0,,,,,,,,,,,,,,,,,,,,,,,
+2011,Apr,WomenClothing,3414.0,,,,,,,,,,,,,,,,,,,,,,Easter Sunday,Event
+2011,Apr,MenClothing,690.0,,,,,,,,,,,,,,,,,,,,,,Easter Sunday,Event
+2011,Apr,OtherClothing,985.0,,,,,,,,,,,,,,,,,,,,,,Easter Sunday,Event
+2011,May,WomenClothing,3340.0,,,,,,,,,,,,,,,,,,,,,,"Mother's Day, Memorial Day","Event, Federal Holiday"
+2011,May,MenClothing,677.0,,,,,,,,,,,,,,,,,,,,,,"Mother's Day, Memorial Day","Event, Federal Holiday"
+2011,May,OtherClothing,1027.0,,,,,,,,,,,,,,,,,,,,,,"Mother's Day, Memorial Day","Event, Federal Holiday"
+2011,Jun,WomenClothing,3232.0,,,,,,,,,,,,,,,,,,,,,,Father's Day,Event
+2011,Jun,MenClothing,1616.729411764706,,,,,,,,,,,,,,,,,,,,,,Father's Day,Event
+2011,Jun,OtherClothing,1616.729411764706,,,,,,,,,,,,,,,,,,,,,,Father's Day,Event
+2011,Jul,WomenClothing,2896.0,,,,,,,,,,,,,,,,,,,,,,Independence Day,Federal Holiday
+2011,Jul,MenClothing,587.0,,,,,,,,,,,,,,,,,,,,,,Independence Day,Federal Holiday
+2011,Jul,OtherClothing,985.0,,,,,,,,,,,,,,,,,,,,,,Independence Day,Federal Holiday
+2011,Aug,WomenClothing,3245.0,,,,,,,,,,,,,,,,,,,,,,,
+2011,Aug,MenClothing,549.0,,,,,,,,,,,,,,,,,,,,,,,
+2011,Aug,OtherClothing,1001.0,,,,,,,,,,,,,,,,,,,,,,,
+2011,Sep,WomenClothing,3182.0,,,,,,,,,,,,,,,,,,,,,,Labor Day,Federal Holiday
+2011,Sep,MenClothing,643.0,,,,,,,,,,,,,,,,,,,,,,Labor Day,Federal Holiday
+2011,Sep,OtherClothing,930.0,,,,,,,,,,,,,,,,,,,,,,Labor Day,Federal Holiday
+2011,Oct,WomenClothing,1616.729411764706,,,,,,,,,,,,,,,,,,,,,,"Columbus Day (Most regions), Halloween","Federal Holiday, Event"
+2011,Oct,MenClothing,682.0,,,,,,,,,,,,,,,,,,,,,,"Columbus Day (Most regions), Halloween","Federal Holiday, Event"
+2011,Oct,OtherClothing,1020.0,,,,,,,,,,,,,,,,,,,,,,"Columbus Day (Most regions), Halloween","Federal Holiday, Event"
+2011,Nov,WomenClothing,3499.0,,,,,,,,,,,,,,,,,,,,,,"Veterans Day, Thanksgiving Day","Federal Holiday, Federal Holiday"
+2011,Nov,MenClothing,707.0,,,,,,,,,,,,,,,,,,,,,,"Veterans Day, Thanksgiving Day","Federal Holiday, Federal Holiday"
+2011,Nov,OtherClothing,1147.0,,,,,,,,,,,,,,,,,,,,,,"Veterans Day, Thanksgiving Day","Federal Holiday, Federal Holiday"
+2011,Dec,WomenClothing,4775.0,,,,,,,,,,,,,,,,,,,,,,"Christmas Eve, Christmas Day, 'Christmas Day' observed, New Year's Eve","Event, Federal Holiday, Federal Holiday, Event"
+2011,Dec,MenClothing,1081.0,,,,,,,,,,,,,,,,,,,,,,"Christmas Eve, Christmas Day, 'Christmas Day' observed, New Year's Eve","Event, Federal Holiday, Federal Holiday, Event"
+2011,Dec,OtherClothing,1596.0,,,,,,,,,,,,,,,,,,,,,,"Christmas Eve, Christmas Day, 'Christmas Day' observed, New Year's Eve","Event, Federal Holiday, Federal Holiday, Event"
+2012,Jan,WomenClothing,2287.0,,,,,,,,,,,,,,,,,,,,,,"New Year's Day, 'New Year's Day' observed, Martin Luther King Jr. Day","Federal Holiday, Federal Holiday, Federal Holiday"
+2012,Jan,MenClothing,525.0,,,,,,,,,,,,,,,,,,,,,,"New Year's Day, 'New Year's Day' observed, Martin Luther King Jr. Day","Federal Holiday, Federal Holiday, Federal Holiday"
+2012,Jan,OtherClothing,1039.0,,,,,,,,,,,,,,,,,,,,,,"New Year's Day, 'New Year's Day' observed, Martin Luther King Jr. Day","Federal Holiday, Federal Holiday, Federal Holiday"
+2012,Feb,WomenClothing,2800.0,,,,,,,,,,,,,,,,,,,,,,"Valentine's Day, Presidents' Day","Event, Federal Holiday"
+2012,Feb,MenClothing,545.0,,,,,,,,,,,,,,,,,,,,,,"Valentine's Day, Presidents' Day","Event, Federal Holiday"
+2012,Feb,OtherClothing,1616.729411764706,,,,,,,,,,,,,,,,,,,,,,"Valentine's Day, Presidents' Day","Event, Federal Holiday"
+2012,Mar,WomenClothing,3566.0,,,,,,,,,,,,,,,,,,,,,,,
+2012,Mar,MenClothing,623.0,,,,,,,,,,,,,,,,,,,,,,,
+2012,Mar,OtherClothing,1229.0,,,,,,,,,,,,,,,,,,,,,,,
+2012,Apr,WomenClothing,3724.0,,,,,,,,,,,,,,,,,,,,,,Easter Sunday,Event
+2012,Apr,MenClothing,711.0,,,,,,,,,,,,,,,,,,,,,,Easter Sunday,Event
+2012,Apr,OtherClothing,1136.0,,,,,,,,,,,,,,,,,,,,,,Easter Sunday,Event
+2012,May,WomenClothing,3800.0,,,,,,,,,,,,,,,,,,,,,,"Mother's Day, Memorial Day","Event, Federal Holiday"
+2012,May,MenClothing,725.0,,,,,,,,,,,,,,,,,,,,,,"Mother's Day, Memorial Day","Event, Federal Holiday"
+2012,May,OtherClothing,1155.0,,,,,,,,,,,,,,,,,,,,,,"Mother's Day, Memorial Day","Event, Federal Holiday"
+2012,Jun,WomenClothing,3086.0,,,,,,,,,,,,,,,,,,,,,,Father's Day,Event
+2012,Jun,MenClothing,703.0,,,,,,,,,,,,,,,,,,,,,,Father's Day,Event
+2012,Jun,OtherClothing,1205.0,,,,,,,,,,,,,,,,,,,,,,Father's Day,Event
+2012,Jul,WomenClothing,2877.0,,,,,,,,,,,,,,,,,,,,,,Independence Day,Federal Holiday
+2012,Jul,MenClothing,613.0,,,,,,,,,,,,,,,,,,,,,,Independence Day,Federal Holiday
+2012,Jul,OtherClothing,1049.0,,,,,,,,,,,,,,,,,,,,,,Independence Day,Federal Holiday
+2012,Aug,WomenClothing,3059.0,,,,,,,,,,,,,,,,,,,,,,,
+2012,Aug,MenClothing,1616.729411764706,,,,,,,,,,,,,,,,,,,,,,,
+2012,Aug,OtherClothing,1124.0,,,,,,,,,,,,,,,,,,,,,,,
+2012,Sep,WomenClothing,1616.729411764706,,,,,,,,,,,,,,,,,,,,,,Labor Day,Federal Holiday
+2012,Sep,MenClothing,687.0,,,,,,,,,,,,,,,,,,,,,,Labor Day,Federal Holiday
+2012,Sep,OtherClothing,1045.0,,,,,,,,,,,,,,,,,,,,,,Labor Day,Federal Holiday
+2012,Oct,WomenClothing,3168.0,,,,,,,,,,,,,,,,,,,,,,"Columbus Day (Most regions), Halloween","Federal Holiday, Event"
+2012,Oct,MenClothing,710.0,,,,,,,,,,,,,,,,,,,,,,"Columbus Day (Most regions), Halloween","Federal Holiday, Event"
+2012,Oct,OtherClothing,1158.0,,,,,,,,,,,,,,,,,,,,,,"Columbus Day (Most regions), Halloween","Federal Holiday, Event"
+2012,Nov,WomenClothing,3558.0,,,,,,,,,,,,,,,,,,,,,,"Election Day, Veterans Day, Thanksgiving Day","Event, Federal Holiday, Federal Holiday"
+2012,Nov,MenClothing,731.0,,,,,,,,,,,,,,,,,,,,,,"Election Day, Veterans Day, Thanksgiving Day","Event, Federal Holiday, Federal Holiday"
+2012,Nov,OtherClothing,1252.0,,,,,,,,,,,,,,,,,,,,,,"Election Day, Veterans Day, Thanksgiving Day","Event, Federal Holiday, Federal Holiday"
+2012,Dec,WomenClothing,4824.0,,,,,,,,,,,,,,,,,,,,,,"Christmas Eve, Christmas Day, New Year's Eve","Event, Federal Holiday, Event"
+2012,Dec,MenClothing,1080.0,,,,,,,,,,,,,,,,,,,,,,"Christmas Eve, Christmas Day, New Year's Eve","Event, Federal Holiday, Event"
+2012,Dec,OtherClothing,1475.0,,,,,,,,,,,,,,,,,,,,,,"Christmas Eve, Christmas Day, New Year's Eve","Event, Federal Holiday, Event"
+2013,Jan,WomenClothing,2320.0,,,,,,,,,,,,,,,,,,,,,,"New Year's Day, Martin Luther King Jr. Day","Federal Holiday, Federal Holiday"
+2013,Jan,MenClothing,599.0,,,,,,,,,,,,,,,,,,,,,,"New Year's Day, Martin Luther King Jr. Day","Federal Holiday, Federal Holiday"
+2013,Jan,OtherClothing,1036.0,,,,,,,,,,,,,,,,,,,,,,"New Year's Day, Martin Luther King Jr. Day","Federal Holiday, Federal Holiday"
+2013,Feb,WomenClothing,2872.0,,,,,,,,,,,,,,,,,,,,,,"Valentine's Day, Presidents' Day","Event, Federal Holiday"
+2013,Feb,MenClothing,560.0,,,,,,,,,,,,,,,,,,,,,,"Valentine's Day, Presidents' Day","Event, Federal Holiday"
+2013,Feb,OtherClothing,1144.0,,,,,,,,,,,,,,,,,,,,,,"Valentine's Day, Presidents' Day","Event, Federal Holiday"
+2013,Mar,WomenClothing,3687.0,,,,,,,,,,,,,,,,,,,,,,Easter Sunday,Event
+2013,Mar,MenClothing,682.0,,,,,,,,,,,,,,,,,,,,,,Easter Sunday,Event
+2013,Mar,OtherClothing,1346.0,,,,,,,,,,,,,,,,,,,,,,Easter Sunday,Event
+2013,Apr,WomenClothing,3883.0,,,,,,,,,,,,,,,,,,,,,,,
+2013,Apr,MenClothing,718.0,,,,,,,,,,,,,,,,,,,,,,,
+2013,Apr,OtherClothing,1188.0,,,,,,,,,,,,,,,,,,,,,,,
+2013,May,WomenClothing,4170.0,,,,,,,,,,,,,,,,,,,,,,"Mother's Day, Memorial Day","Event, Federal Holiday"
+2013,May,MenClothing,749.0,,,,,,,,,,,,,,,,,,,,,,"Mother's Day, Memorial Day","Event, Federal Holiday"
+2013,May,OtherClothing,1194.0,,,,,,,,,,,,,,,,,,,,,,"Mother's Day, Memorial Day","Event, Federal Holiday"
+2013,Jun,WomenClothing,3360.0,,,,,,,,,,,,,,,,,,,,,,Father's Day,Event
+2013,Jun,MenClothing,678.0,,,,,,,,,,,,,,,,,,,,,,Father's Day,Event
+2013,Jun,OtherClothing,1261.0,,,,,,,,,,,,,,,,,,,,,,Father's Day,Event
+2013,Jul,WomenClothing,3320.0,,,,,,,,,,,,,,,,,,,,,,Independence Day,Federal Holiday
+2013,Jul,MenClothing,648.0,,,,,,,,,,,,,,,,,,,,,,Independence Day,Federal Holiday
+2013,Jul,OtherClothing,1126.0,,,,,,,,,,,,,,,,,,,,,,Independence Day,Federal Holiday
+2013,Aug,WomenClothing,3539.0,,,,,,,,,,,,,,,,,,,,,,,
+2013,Aug,MenClothing,687.0,,,,,,,,,,,,,,,,,,,,,,,
+2013,Aug,OtherClothing,1311.0,,,,,,,,,,,,,,,,,,,,,,,
+2013,Sep,WomenClothing,3720.0,,,,,,,,,,,,,,,,,,,,,,Labor Day,Federal Holiday
+2013,Sep,MenClothing,681.0,,,,,,,,,,,,,,,,,,,,,,Labor Day,Federal Holiday
+2013,Sep,OtherClothing,1043.0,,,,,,,,,,,,,,,,,,,,,,Labor Day,Federal Holiday
+2013,Oct,WomenClothing,3590.0,,,,,,,,,,,,,,,,,,,,,,"Columbus Day (Most regions), Halloween","Federal Holiday, Event"
+2013,Oct,MenClothing,785.0,,,,,,,,,,,,,,,,,,,,,,"Columbus Day (Most regions), Halloween","Federal Holiday, Event"
+2013,Oct,OtherClothing,1616.729411764706,,,,,,,,,,,,,,,,,,,,,,"Columbus Day (Most regions), Halloween","Federal Holiday, Event"
+2013,Nov,WomenClothing,3834.0,,,,,,,,,,,,,,,,,,,,,,"Veterans Day, Thanksgiving Day","Federal Holiday, Federal Holiday"
+2013,Nov,MenClothing,798.0,,,,,,,,,,,,,,,,,,,,,,"Veterans Day, Thanksgiving Day","Federal Holiday, Federal Holiday"
+2013,Nov,OtherClothing,1209.0,,,,,,,,,,,,,,,,,,,,,,"Veterans Day, Thanksgiving Day","Federal Holiday, Federal Holiday"
+2013,Dec,WomenClothing,4865.0,,,,,,,,,,,,,,,,,,,,,,"Christmas Eve, Christmas Day, New Year's Eve","Event, Federal Holiday, Event"
+2013,Dec,MenClothing,1085.0,,,,,,,,,,,,,,,,,,,,,,"Christmas Eve, Christmas Day, New Year's Eve","Event, Federal Holiday, Event"
+2013,Dec,OtherClothing,1566.0,,,,,,,,,,,,,,,,,,,,,,"Christmas Eve, Christmas Day, New Year's Eve","Event, Federal Holiday, Event"
