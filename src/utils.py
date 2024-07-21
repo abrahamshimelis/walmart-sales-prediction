@@ -28,25 +28,6 @@ def check_missing_data(df):
         
         return missing_data_summary
 
-def evaluate_model (model, X_test, y_test):
-    y_pred_proba = model.predict(X_test)
-    y_pred = np.where(y_pred_proba > 0.5, 1, 0)  # binary classification
-
-    accuracy = accuracy_score(y_test, y_pred)
-    precision = precision_score(y_test, y_pred)
-    recall = recall_score(y_test, y_pred)
-    f1 = f1_score(y_test, y_pred)
-    roc_auc = roc_auc_score(y_test, y_pred_proba)
-
-    print(f'Accuracy: {accuracy}')
-    print(f'Precision: {precision}')
-    print(f'Recall: {recall}')
-    print(f'F1 Score: {f1}')
-    print(f'ROC-AUC: {roc_auc}')
-    
-    return accuracy, precision, recall, f1, roc_auc
-
-
 def generate_predictions_and_submissions(models, test_data, categories, csv_path):
     dfs = []
     for model, X_test, category in zip(models, test_data, categories):
