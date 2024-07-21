@@ -18,10 +18,10 @@ The following models have been trained and their performance evaluated:
 - Gradient Boosting Regression
 
 ## Results
-The Decision Tree Regression model had the lowest private score, and the Support Vector Regression model had the lowest public score.
+The Decision Tree Regression model had the lowest private and public score.
 
 ## Future Work
-It’s suggested to further optimize the Support Vector Regression model and explore more advanced models. Including more data like weekly sales or promotional activities could improve accuracy. Continual validation and updates are also crucial for maintaining the model’s relevance.
+It’s suggested to further optimize the Decision Tree Regression model and explore more advanced models. Including more data like weekly sales or promotional activities could improve accuracy. Continual validation and updates are also crucial for maintaining the model’s relevance.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
